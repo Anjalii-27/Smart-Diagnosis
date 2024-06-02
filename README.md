@@ -1,0 +1,1 @@
+A predictive model for disease identification and drug prescription based on symptoms. By leveraging machine learning algorithms, this project seeks to analyze symptoms reported by patients and predict potential diseases.
